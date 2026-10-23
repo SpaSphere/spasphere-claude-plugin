@@ -47,7 +47,9 @@ Changes to your business, such as services, hours, forms, packages and membershi
 
 The plugin sends only what you ask for, through `https://mcp.spasphere.ai/mcp`, to and from your own SpaSphere account. That covers your business settings, services, website, blog and newsletter content, forms, packages, memberships, and business totals.
 
-Claude never receives client names, contact details, appointment records, intake answers, notes, invoices or payment information. It can't take payments, refund, or delete records.
+SpaSphere never sends Claude your client names, contact details, appointment records, intake answers, notes, invoices or payment information. Claude can't take payments, refund, or delete records.
+
+One exception is a client list you import yourself. If you attach a CSV of your clients and ask Claude to import it, Claude reads the file, including names and contact details, and passes it to SpaSphere, which adds the clients to your account. SpaSphere answers with counts only, and Claude is told not to repeat client details. The file you attach is handled by Anthropic under its own terms and privacy policy. If you'd rather not share it, import it in SpaSphere under Clients > Import.
 
 SpaSphere logs every change made through Claude, with what changed and when. The plugin itself stores nothing and runs no code on your computer.
 
