@@ -1,0 +1,15 @@
+{
+  "name": "spasphere",
+  "description": "SpaSphere's official plugin for running a spa or esthetics business with Claude.",
+  "owner": {
+    "name": "SpaSphere, Inc.",
+    "email": "hello@spasphere.ai"
+  },
+  "plugins": [
+    {
+      "name": "spasphere",
+      "source": "./",
+      "description": "Run your spa or esthetics business on SpaSphere from a conversation."
+    }
+  ]
+}

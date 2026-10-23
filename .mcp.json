@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "spasphere": {
+      "type": "http",
+      "url": "https://mcp.spasphere.ai/mcp",
+      "oauth": {
+        "clientId": "spasphere-mcp-claude",
+        "callbackPort": 47823,
+        "scopes": "spasphere-mcp"
+      }
+    }
+  }
+}

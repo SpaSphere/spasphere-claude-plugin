@@ -1,0 +1,20 @@
+{
+  "name": "spasphere",
+  "displayName": "SpaSphere",
+  "version": "1.0.0",
+  "description": "Run your spa or esthetics business on SpaSphere from a conversation: update services, hours, website, blog, newsletters, intake forms, packages and memberships, and see how the business is doing. Every change waits for your yes.",
+  "author": {
+    "name": "SpaSphere, Inc.",
+    "email": "hello@spasphere.ai",
+    "url": "https://spasphere.ai"
+  },
+  "homepage": "https://spasphere.ai/ai-workflows",
+  "repository": "https://github.com/SpaSphere/spasphere-claude-plugin",
+  "license": "MIT",
+  "keywords": ["spa", "esthetics", "salon", "booking", "website", "newsletter"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://spasphere.ai/ai-workflows",
+  "supportUrl": "https://spasphere.ai/support",
+  "privacyPolicyUrl": "https://spasphere.ai/privacy-policy",
+  "termsOfServiceUrl": "https://spasphere.ai/terms-of-service"
+}
