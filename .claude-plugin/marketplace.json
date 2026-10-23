@@ -3,7 +3,7 @@
   "description": "SpaSphere's official plugin for running a spa or esthetics business with Claude.",
   "owner": {
     "name": "SpaSphere, Inc.",
-    "email": "hello@spasphere.ai"
+    "email": "support@spasphere.ai"
   },
   "plugins": [
     {
