@@ -23,7 +23,7 @@ Content tools use images from the business's media library only. `media_list` sh
 ## Blog
 
 1. `blog_list` and `blog_get` show posts. Write or edit with `blog_save_draft`, in Markdown. A post that is already live can't be edited here.
-2. Show the owner the draft.
+2. Give the owner the draft's `preview_url`, so they see the post as it will look on their site.
 3. Call `blog_publish` only when they say to. Pass the `updated_at` they reviewed. `blog_unpublish` takes a post off the site.
 
 ## Writing
