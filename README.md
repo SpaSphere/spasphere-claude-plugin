@@ -10,10 +10,11 @@ The plugin connects Claude to your SpaSphere account through the SpaSphere conne
 
 ## How to use it
 
-1. Add SpaSphere from the Claude directory. In Claude Code, you can also run:
+1. In Claude on the web or the desktop app, click Customize in the sidebar, open Plugins, then Discover. Find SpaSphere and click Add. In Claude Code, run:
 
    ```
-   /plugin install spasphere --marketplace SpaSphere/spasphere-claude-plugin
+   /plugin marketplace add SpaSphere/spasphere-claude-plugin
+   /plugin install spasphere@spasphere
    ```
 
    Then connect SpaSphere and sign in with your SpaSphere owner account.
