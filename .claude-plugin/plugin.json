@@ -1,8 +1,8 @@
 {
   "name": "spasphere",
   "displayName": "SpaSphere",
-  "version": "1.0.0",
-  "description": "Run your spa or esthetics business on SpaSphere from a conversation: update services, hours, website, blog, newsletters, intake forms, packages and memberships, and see how the business is doing. Every change waits for your yes.",
+  "version": "1.1.0",
+  "description": "Run your spa or esthetics business on SpaSphere from a conversation: update services, hours, website, blog, newsletters, packages and memberships, and see how the business is doing. Every change waits for your yes.",
   "author": {
     "name": "SpaSphere, Inc.",
     "email": "support@spasphere.ai",
